@@ -1,0 +1,10 @@
+Data Analyst - Sample Retail Co, Hyderabad
+
+We need a Data Analyst with 1-3 years of experience.
+
+Requirements:
+- SQL, Python (Pandas), and dashboarding in Tableau or Power BI
+- Strong statistics and A/B testing knowledge
+- Experience with Snowflake or BigQuery is a plus
+- Clear communication with business teams
+- Bachelor's degree in a quantitative field

@@ -1,0 +1,24 @@
+Riya Sharma
+Bhubaneswar, Odisha | riya.sharma@example.com
+
+Summary
+Final-year B.Tech CSE student with backend and applied ML experience. Interested in SDE-1 roles.
+
+Skills
+Python, Java, SQL, PostgreSQL, Flask, FastAPI, REST APIs, Docker, Git, Machine Learning, scikit-learn, LangChain, ChromaDB
+
+Experience
+Software Engineering Intern, Example Infotech, Kolkata (May 2025 - Jul 2025)
+- Built an idempotent payments ledger service in Python and PostgreSQL.
+- Wrote REST endpoints with FastAPI and added unit tests with pytest.
+- Containerised the service with Docker.
+
+Projects
+Resume Analyzer: Built a RAG app using LangChain and ChromaDB to answer questions over resumes.
+Health Monitor: Self-hosted API uptime monitor in Python with email alerts.
+
+Education
+B.Tech Computer Science and Engineering, Example University, Bhubaneswar (2023 - 2027), CGPA 7.5
+
+Certifications
+Introduction to Machine Learning (online course)

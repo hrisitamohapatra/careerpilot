@@ -1,0 +1,24 @@
+Arjun Mehta
+Pune, Maharashtra | arjun.mehta@example.com
+
+Summary
+Data-focused engineering graduate with experience in analytics dashboards and ML models.
+
+Skills
+Python, Pandas, NumPy, SQL, Tableau, Power BI, scikit-learn, Statistics, Excel, Git
+
+Experience
+Data Analyst Intern, Sample Analytics Pvt Ltd, Pune (Jan 2025 - Jun 2025)
+- Built weekly sales dashboards in Power BI used by the regional team.
+- Cleaned and joined datasets with Pandas and SQL.
+- Trained a churn prediction model with scikit-learn.
+
+Projects
+Sales Forecasting: Time-series forecasting project using Python and Prophet.
+Movie Recommender: Collaborative filtering recommender built with Pandas.
+
+Education
+B.E. Information Technology, Sample Institute of Technology, Pune (2020 - 2024), CGPA 8.1
+
+Certifications
+Google Data Analytics Certificate

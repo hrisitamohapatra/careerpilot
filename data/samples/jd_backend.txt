@@ -1,0 +1,13 @@
+Backend Engineer (SDE-1) - Example Fintech, Bengaluru
+
+We are looking for a Backend Engineer with 0-2 years of experience.
+
+Requirements:
+- Strong Python and REST API design (FastAPI or Django)
+- SQL and PostgreSQL, basic database design
+- Docker and CI/CD basics, Git
+- Knowledge of Kafka or message queues is a plus
+- Experience with AWS is a plus
+- B.Tech/B.E. in Computer Science or related field
+
+You will build payment and ledger services used by thousands of customers.
