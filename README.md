@@ -126,6 +126,16 @@ Open the Reminders tab (or type "remind me: interview on 5 Nov at 11 am" in Chat
 
 You see every planned entry in a review table, untick any you do not want, and click **Approve and add to calendar**. Without a Google connection you get one `.ics` file instead. Reminders that would already have fired are dropped, dates in the past or more than 400 days away are rejected, and duplicates are skipped. The model only reads dates out of text; code validates every date and time, and the calendar is only touched after you approve. Events are inserted only, never edited or deleted.
 
+## Screenshot
+<img width="1909" height="864" alt="Screenshot 2026-10-12 234106" src="https://github.com/user-attachments/assets/e519396d-5af2-41ff-bff6-15d9311dd42c" />
+<img width="1065" height="876" alt="Screenshot 2026-10-12 234125" src="https://github.com/user-attachments/assets/e7a966c3-e9a8-47ff-a46c-26d4bdc73e60" />
+<img width="1267" height="878" alt="Screenshot 2026-10-12 234141" src="https://github.com/user-attachments/assets/3eb942d0-d2c1-4b2b-9a4b-0ecdb5269c07" />
+<img width="1099" height="868" alt="Screenshot 2026-10-12 234151" src="https://github.com/user-attachments/assets/5e7f0c59-39cf-45fd-972c-8d7004bfc842" />
+<img width="1256" height="812" alt="Screenshot 2026-10-12 234202" src="https://github.com/user-attachments/assets/69372de6-3090-48ff-9b92-8560f1761a00" />
+<img width="837" height="841" alt="Screenshot 2026-10-12 234214" src="https://github.com/user-attachments/assets/0a603989-ea74-499d-b7f7-d7018e0ca578" />
+<img width="1243" height="827" alt="Screenshot 2026-10-12 234224" src="https://github.com/user-attachments/assets/aed9fe52-00f2-4551-90fd-790bd86d53b5" />
+
+
 ## Security and privacy
 
 - **Your data and the AI.** Your resume text and job descriptions are sent to the Groq API to produce answers. Job searches send only a role and a city (never resume text) to the job APIs. SQLite, ChromaDB and tokens stay on your machine. Use sample or non-sensitive data for demos. **Delete my data** in the sidebar wipes the resume, vectors, drafts, applications, interview history and cached resume-derived data.
