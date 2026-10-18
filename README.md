@@ -128,7 +128,7 @@ You see every planned entry in a review table, untick any you do not want, and c
 
 ## Screenshot
 <img width="1909" height="864" alt="Screenshot 2026-10-12 234106" src="https://github.com/user-attachments/assets/e519396d-5af2-41ff-bff6-15d9311dd42c" />
-<img width="1065" height="876" alt="Screenshot 2026-10-12 234125" src="https://github.com/user-attachments/assets/e7a966c3-e9a8-47ff-a46c-26d4bdc73e60" />
+<img width="1197" height="972" alt="image" src="https://github.com/user-attachments/assets/f8cb5a5c-f422-407f-a4f0-895b97aae227" />
 <img width="1267" height="878" alt="Screenshot 2026-10-12 234141" src="https://github.com/user-attachments/assets/3eb942d0-d2c1-4b2b-9a4b-0ecdb5269c07" />
 <img width="1099" height="868" alt="Screenshot 2026-10-12 234151" src="https://github.com/user-attachments/assets/5e7f0c59-39cf-45fd-972c-8d7004bfc842" />
 <img width="1256" height="812" alt="Screenshot 2026-10-12 234202" src="https://github.com/user-attachments/assets/69372de6-3090-48ff-9b92-8560f1761a00" />
