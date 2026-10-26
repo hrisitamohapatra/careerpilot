@@ -1,3 +1,5 @@
+Team project with @theanamsaqib
+
 # CareerPilot
 
 A free, GenAI + agentic job-application assistant for India-based jobs. Upload a resume, pick a role and a city, then ask questions, score a job description, find and rank jobs, send an approved application with a calendar follow-up, and practise an adaptive mock interview.
